@@ -1,7 +1,7 @@
-# IntelliSocial - Software Requirements Specification (SRS)
+# SocialLink - Software Requirements Specification (SRS)
 
 ## Introduction
-IntelliSocial is a backend application developed using Node.js and Express.js, designed to serve as the foundation for a social media platform. This document outlines the features, technical specifications, installation instructions, and contribution guidelines to assist developers in understanding and working with the IntelliSocial application.
+SocialLink is a backend application developed using Node.js and Express.js, designed to serve as the foundation for a social media platform. This document outlines the features, technical specifications, installation instructions, and contribution guidelines to assist developers in understanding and working with the SocialLink application.
 
 ## Features
 1. **User Authentication**
@@ -31,14 +31,14 @@ IntelliSocial is a backend application developed using Node.js and Express.js, d
 - **OAuth Provider**: Google OAuth2 for third-party authentication
 
 ## Installation Instructions
-To set up the IntelliSocial application locally, follow these steps:
+To set up the SocialLink application locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Samadali123/IntelliSocial
+   git clone https://github.com/adeebmansoor/SocialLink
    ```
 2. Navigate into the project directory:
    ```bash
-   cd IntelliSocial
+   cd SocialLink
    ```
 3. Install the required dependencies:
    ```bash
@@ -50,7 +50,7 @@ To set up the IntelliSocial application locally, follow these steps:
    ```
 
 ## Contribution Guidelines
-To contribute to the IntelliSocial project:
+To contribute to the SocialLink project:
 1. Fork the repository on GitHub.
 2. Create a new branch for your changes.
 3. Make your modifications and commit them.
